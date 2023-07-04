@@ -16,7 +16,7 @@ Users should be able to:
 - Grid
 
 ## Demo
-You can view Demo [here](https://nisha-nish.github.io/Result-Summary/)
+You can view Demo [here](https://nisha-nish.github.io/Stats-preview-card-component/)
 
 ##
 
